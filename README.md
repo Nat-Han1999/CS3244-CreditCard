@@ -13,7 +13,7 @@ This project aims classify an applicant as a potential good or bad borrower base
 # Table of Contents
 1. [Technologies](#technologies)
 2. [Models](#models)
-3. [Setup](#setup)
+3. [Techniques](#techniques)
 4. [Contributors](#contributors)
 
 # Technologies
@@ -40,22 +40,22 @@ The following models will be applied in this project:
 * Unsupervised
   * K-Means Clustering
 
-# Techniques Used
+# Techniques
 
 * Feature Extraction
- * Feature Engineering
- * Autoencoding
+  * Feature Engineering
+  * Autoencoding
 
 * Splitting of Data into Test/Train
- * Stratified Split
+  * Stratified Split
 
 * Handling Class Imbalance
- * Upsampling and downsampling
- * SMOTENC
+  * Upsampling and downsampling
+  * SMOTENC
 
 * Hyperparameter Tuning
- * RandomizedSearchCV
- * GridSearchCV
+  * RandomizedSearchCV
+  * GridSearchCV
 
 # Contributors
 
