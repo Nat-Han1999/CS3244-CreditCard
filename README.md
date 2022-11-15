@@ -65,8 +65,4 @@ The following models will be applied in this project:
 
 # Contributors
 
-* Andreas: https://github.com/AndreasL7
-* Johnson: https://github.com/Johnson-LM
-* Joshua: https://github.com/Joshzgx
-* Mabel: https://github.com/mabsla
 * Nathaniel: https://github.com/Nat-Han1999
