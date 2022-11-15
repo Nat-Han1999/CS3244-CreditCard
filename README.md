@@ -40,6 +40,23 @@ The following models will be applied in this project:
 * Unsupervised
   * K-Means Clustering
 
+# Techniques Used
+
+* Feature Extraction
+ * Feature Engineering
+ * Autoencoding
+
+* Splitting of Data into Test/Train
+ * Stratified Split
+
+* Handling Class Imbalance
+ * Upsampling and downsampling
+ * SMOTENC
+
+* Hyperparameter Tuning
+ * RandomizedSearchCV
+ * GridSearchCV
+
 # Contributors
 
 * Andreas: https://github.com/AndreasL7
