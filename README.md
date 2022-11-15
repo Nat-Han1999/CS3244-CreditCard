@@ -12,9 +12,10 @@ This project aims classify an applicant as a potential good or bad borrower base
 
 # Table of Contents
 1. [Technologies](#technologies)
-2. [Models](#models)
-3. [Techniques](#techniques)
-4. [Contributors](#contributors)
+2. [Dataset](#dataset)
+3. [Models](#models)
+4. [Techniques](#techniques)
+5. [Contributors](#contributors)
 
 # Technologies
 * Language
@@ -25,6 +26,11 @@ This project aims classify an applicant as a potential good or bad borrower base
   * numpy
   * pandas
   * scipy
+
+# Dataset
+https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+
+The dataset is supposedly real-world bank data hosted on Kaggle, sourced from a machine learning course. It includes 2 separate CSV (Comma-separated Values) files. The first file, credit_record.csv is the credit repayment records of customers approved for a credit card, recorded by an ID. The other file, application_record.csv, is personal information about the customers, and consists of attributes like income level, education level, employment information among many others. We will have to define what is deemed as “good”/”bad” customers as labels are not provided.
 
 # Models
 
