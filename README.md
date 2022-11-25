@@ -11,21 +11,10 @@ This project aims classify an applicant as a potential good or bad borrower base
 
 
 # Table of Contents
-1. [Technologies](#technologies)
-2. [Dataset](#dataset)
-3. [Models](#models)
-4. [Techniques](#techniques)
-5. [Contributors](#contributors)
-
-# Technologies
-* Language
-  * Python
-
-* Packages
-  * sklearn
-  * numpy
-  * pandas
-  * scipy
+1. [Dataset](#dataset)
+2. [Models](#models)
+3. [Techniques](#techniques)
+4. [Contributors](#contributors)
 
 # Dataset
 https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
