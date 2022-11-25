@@ -39,7 +39,6 @@ The following models will be applied in this project:
 
 * Feature Extraction
   * Feature Engineering
-  * Autoencoding
 
 * Splitting of Data into Test/Train
   * Stratified Split
