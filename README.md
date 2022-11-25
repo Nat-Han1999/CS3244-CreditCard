@@ -70,5 +70,5 @@ The following models will be applied in this project:
 * Junjing:  https://github.com/Radix-huang
 * Nathaniel: https://github.com/Nat-Han1999
 * Sandy: https://github.com/sandyseahjs
-* YiChi: https://github.com/CDDnoICEA
+* YiChi: https://github.com/CDDnoICE
 
