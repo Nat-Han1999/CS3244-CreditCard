@@ -44,7 +44,7 @@ The following models will be applied in this project:
   * Stratified Split
 
 * Handling Class Imbalance
-  * Upsampling and downsampling
+  * Upsampling and Downsampling
   * SMOTENC
 
 * Hyperparameter Tuning
